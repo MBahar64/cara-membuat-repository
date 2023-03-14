@@ -1,0 +1,15 @@
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\bin\Debug\net6.0\kalkulator konsol app.exe
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\bin\Debug\net6.0\kalkulator konsol app.deps.json
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\bin\Debug\net6.0\kalkulator konsol app.runtimeconfig.json
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\bin\Debug\net6.0\kalkulator konsol app.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\bin\Debug\net6.0\kalkulator konsol app.pdb
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\refint\kalkulator konsol app.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.pdb
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\kalkulator konsol app.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\kalkulator konsol app\obj\Debug\net6.0\ref\kalkulator konsol app.dll

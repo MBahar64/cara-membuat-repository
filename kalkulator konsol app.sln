@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulator konsol app", "kalkulator konsol app.csproj", "{E409D99E-43BE-45CC-8A58-DF16CBF99CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E409D99E-43BE-45CC-8A58-DF16CBF99CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E409D99E-43BE-45CC-8A58-DF16CBF99CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E409D99E-43BE-45CC-8A58-DF16CBF99CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E409D99E-43BE-45CC-8A58-DF16CBF99CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F1DEE4-9837-4025-8FEC-87F349560A52}
+	EndGlobalSection
+EndGlobal
